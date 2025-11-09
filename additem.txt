@@ -1,0 +1,30 @@
+Item name: egg
+Item UID: 101
+Unit price: 35 Tk
+Quantity: 8 Pc
+
+Item name: milk
+Item UID: 102
+Unit price: 55 Tk
+Quantity: 4 Pc
+
+Item name: bread
+Item UID: 103
+Unit price: 65 Tk
+Quantity: 1 Pc
+
+Item name: egg
+Item UID: 108
+Unit price: 15 Tk
+Quantity: 4 Pc
+
+Item name: shampoo
+Item UID: 109
+Unit price: 100 Tk
+Quantity: 2 Pc
+
+Item name: pen
+Item UID: 123
+Unit price: 5 Tk
+Quantity: 2 Pc
+
